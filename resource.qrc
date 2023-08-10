@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Afghanistan.png</file>
+    <file>Australia.png</file>
+    <file>Bangladesh.png</file>
+    <file>England.png</file>
+    <file>India.png</file>
+    <file>New Zealand.png</file>
+    <file>Pakistan.png</file>
+    <file>South Africa.png</file>
+    <file>Sri Lanka.png</file>
+    <file>West Indies.png</file>
+    <file>arrow.png</file>
+    <file>frame.png</file>
+  </qresource>
+</RCC>
